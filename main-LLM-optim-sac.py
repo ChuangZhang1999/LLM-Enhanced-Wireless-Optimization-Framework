@@ -95,7 +95,7 @@ if __name__ == "__main__":
     parser.add_argument("--sample_count", default=5, type=int)  # how many samples
     parser.add_argument("--train_seed_count", default=1, type=int)  # how many seeds to training
     parser.add_argument("--model", default="gpt-4-1106-preview", type=str)  # which llm should use
-    parser.add_argument("--openai_key", default="sk-EkOHUsQF2yF45EHPsJLIRtM71uSVwBVtebvlRGeXNLgmlUyy", type=str)  # openai key
+    parser.add_argument("--openai_key", default="XXXXXXX", type=str)  # openai key
     parser.add_argument("--temperature", default=1.0, type=float)  # init sampling temperature
     # parser.add_argument("--cuda", default=0, type=int)  # which gpu training on
     parser.add_argument('--session_name', action='store', default='0', type=str, help="Session name for run.")
