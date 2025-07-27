@@ -1,5 +1,6 @@
 # LLM-Enhanced Wireless Optimization Framework for Secure Communications in LAWNs
 <img width="1781" height="831" alt="image" src="https://github.com/user-attachments/assets/abce1dbb-eee4-497a-8fcc-80cfdac59758" />
+
 - **_Step 1: Initialization with manually designed state._**  
   The process begins by constructing a baseline state representation composed of manually selected environment variables. These variables typically encode low‑level physical parameters and control indicators relevant to communication and mobility in LAWNs. However, such handcrafted states often lack the semantic richness and strategic context necessary for high‑level reasoning, especially when domain expertise is limited.
 
